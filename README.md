@@ -16,3 +16,4 @@ Ce dépôt contient la configuration GitOps pour notre projet Kubernetes.
 3. Appliquez les configurations avec `kubectl apply -k environments/staging`
 
 Pour plus d'informations, consultez la [documentation de configuration](docs/setup.md).
+Pour le guide de demo voir : [demo projet ](docs/demo.md).
